@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def check_secrets():
-    required = ['META_LONG_LIVED_ACCESS_TOKEN', 'FB_PAGE_ID', 'FB_PAGE_ACCESS_TOKEN', 'GOOGLE_SERVICE_ACCOUNT_KEY']
+    required = ['FB_PAGE_ID', 'FB_PAGE_ACCESS_TOKEN', 'GOOGLE_SERVICE_ACCOUNT_KEY']
     optional = ['POLLINATIONS_API_KEY', 'INSTAGRAM_ACCOUNT_ID']
 
     missing = [k for k in required if not os.environ.get(k)]

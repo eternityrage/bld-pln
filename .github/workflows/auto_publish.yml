@@ -29,7 +29,6 @@ jobs:
 
       - name: Check secrets
         env:
-          META_LONG_LIVED_ACCESS_TOKEN: ${{ secrets.META_LONG_LIVED_ACCESS_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
@@ -38,7 +37,7 @@ jobs:
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
         run: python -c "
           import os, sys
-          required = ['META_LONG_LIVED_ACCESS_TOKEN', 'FB_PAGE_ID', 'FB_PAGE_ACCESS_TOKEN', 'GOOGLE_SERVICE_ACCOUNT_KEY']
+          required = ['FB_PAGE_ID', 'FB_PAGE_ACCESS_TOKEN', 'GOOGLE_SERVICE_ACCOUNT_KEY']
           missing = [k for k in required if not os.environ.get(k)]
           if missing:
               print(f'Missing required secrets: {missing}')
@@ -48,7 +47,6 @@ jobs:
 
       - name: Run pipeline
         env:
-          META_LONG_LIVED_ACCESS_TOKEN: ${{ secrets.META_LONG_LIVED_ACCESS_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
