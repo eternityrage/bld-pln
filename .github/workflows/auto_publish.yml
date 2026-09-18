@@ -6,6 +6,12 @@ on:
     - cron: '0 12 * * *'
     - cron: '0 20 * * *'
   workflow_dispatch:
+    inputs:
+      force_publish:
+        description: 'Force publish even if no new videos'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   publish:
