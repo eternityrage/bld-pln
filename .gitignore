@@ -1,0 +1,7 @@
+.env
+Videos/
+Processed_Videos/
+Published_Videos/
+__pycache__/
+*.pyc
+.DS_Store
