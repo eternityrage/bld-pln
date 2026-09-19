@@ -63,7 +63,7 @@ def upload_reel(video_path, caption=""):
         'video_id': video_id,
         'access_token': page_token,
         'description': caption,
-        'published': 'true'
+        'video_state': 'PUBLISHED'
     }
     resp = requests.post(publish_url, data=publish_data)
     if resp.status_code != 200:
@@ -129,8 +129,7 @@ def upload_story(video_path):
     publish_data = {
         'upload_phase': 'finish',
         'video_id': video_id,
-        'access_token': page_token,
-        'published': 'true'
+        'access_token': page_token
     }
     resp = requests.post(publish_url, data=publish_data)
     if resp.status_code != 200:
