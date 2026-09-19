@@ -68,18 +68,22 @@ def select_video(processed_videos, published):
     if unpublished:
         return random.choice(unpublished)
 
-    # Repost: weighted random from already published
-    if published:
+    # All published - weighted random from ALL processed videos
+    if processed_videos:
         counts = {}
         for p in published:
             name = p.get('filename', '')
             counts[name] = counts.get(name, 0) + 1
 
-        weights = [1000 // (3 ** min(counts.get(v, 0), 6)) for v in [p.get('filename') for p in published]]
-        chosen = random.choices(published, weights=weights, k=1)[0]
-        video_path = os.path.join('Processed_Videos', chosen['filename'])
-        if os.path.exists(video_path):
-            return video_path
+        weights = []
+        for v in processed_videos:
+            name = os.path.basename(v)
+            count = counts.get(name, 0)
+            weight = max(1, 1000 // (3 ** min(count, 6)))
+            weights.append(weight)
+
+        chosen = random.choices(processed_videos, weights=weights, k=1)[0]
+        return chosen
 
     return None
 
