@@ -236,5 +236,19 @@
         "platform": "facebook_story"
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20260923015126_7.mp4",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1899807321396108"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      }
+    ]
   }
 ]
