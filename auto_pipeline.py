@@ -6,7 +6,7 @@ load_dotenv()
 
 def check_secrets():
     required = ['FB_PAGE_ID', 'FB_PAGE_ACCESS_TOKEN', 'GOOGLE_SERVICE_ACCOUNT_KEY']
-    optional = ['POLLINATIONS_API_KEY', 'INSTAGRAM_ACCOUNT_ID']
+    optional = ['POLLINATIONS_API_KEY', 'INSTAGRAM_ACCOUNT_ID', 'YT_REFRESH_TOKEN', 'YT_CLIENT_ID', 'YT_CLIENT_SECRET']
 
     missing = [k for k in required if not os.environ.get(k)]
     if missing:

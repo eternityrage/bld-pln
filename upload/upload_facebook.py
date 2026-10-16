@@ -6,7 +6,7 @@ import time
 GRAPH_API_VERSION = 'v21.0'
 GRAPH_URL = f'https://graph.facebook.com/{GRAPH_API_VERSION}'
 
-def upload_reel(video_path, caption=""):
+def upload_reel(video_path, caption="", title=""):
     page_token = os.environ.get('FB_PAGE_ACCESS_TOKEN', '')
     page_id = os.environ.get('FB_PAGE_ID', '')
 
@@ -58,11 +58,20 @@ def upload_reel(video_path, caption=""):
 
     # Step 3: Publish
     publish_url = f"{GRAPH_URL}/{page_id}/video_reels"
+    
+    # Ensure title is at top of caption if provided
+    final_caption = caption.strip() if caption else ""
+    clean_title = title.strip() if title else ""
+    if clean_title and clean_title not in final_caption:
+        final_caption = f"{clean_title}\n\n{final_caption}"
+
     publish_data = {
         'upload_phase': 'finish',
         'video_id': video_id,
         'access_token': page_token,
-        'description': caption,
+        'title': clean_title or "PlanView Lens",
+        'video_title': clean_title or "PlanView Lens",
+        'description': final_caption,
         'video_state': 'PUBLISHED'
     }
     resp = requests.post(publish_url, data=publish_data)

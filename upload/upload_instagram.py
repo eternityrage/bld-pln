@@ -5,7 +5,7 @@ import time
 GRAPH_API_VERSION = 'v21.0'
 GRAPH_URL = f'https://graph.facebook.com/{GRAPH_API_VERSION}'
 
-def upload_reel(video_path, caption=""):
+def upload_reel(video_path, caption="", title=""):
     page_token = os.environ.get('FB_PAGE_ACCESS_TOKEN', '')
     page_id = os.environ.get('FB_PAGE_ID', '')
     ig_account_id = os.environ.get('INSTAGRAM_ACCOUNT_ID', '')
@@ -17,6 +17,10 @@ def upload_reel(video_path, caption=""):
     if not os.path.exists(video_path):
         print(f"[ERROR] Video not found: {video_path}")
         return {'status': 'failed', 'platform': 'instagram'}
+
+    # Ensure title is prominently at top of caption
+    if title and title.strip() and title.strip() not in caption:
+        caption = f"{title.strip()}\n\n{caption.strip()}"
 
     file_size = os.path.getsize(video_path)
     print(f"[IG] Uploading reel: {os.path.basename(video_path)} ({file_size / 1024 / 1024:.1f}MB)")
