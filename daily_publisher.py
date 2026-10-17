@@ -19,6 +19,18 @@ load_dotenv(dotenv_path=env_path, override=True)
 PUBLISHED_FILE = 'published_videos.json'
 YOUTUBE_STATE_FILE = 'youtube_publish_state.json'
 
+# Allowed weekdays for YouTube: Monday (0), Wednesday (2), Friday (4), Sunday (6)
+ALLOWED_YOUTUBE_WEEKDAYS = {0, 2, 4, 6}
+WEEKDAY_NAMES = {
+    0: "Monday",
+    1: "Tuesday",
+    2: "Wednesday",
+    3: "Thursday",
+    4: "Friday",
+    5: "Saturday",
+    6: "Sunday"
+}
+
 
 # ==============================================================================
 # ARCHITECTURAL & BUILDING PLANS KNOWLEDGE BASE
@@ -269,29 +281,36 @@ def get_last_youtube_publish_date():
 
 def should_publish_to_youtube():
     """
-    Enforces strict publishing policy for YouTube:
-    1. NEVER publish more than ONCE a day.
-    2. Publish ONLY on ALTERNATE DAYS (every 2 days: >= 2 days gap since last publish).
+    Strict YouTube Publishing Schedule for PlanView Lens:
+    1. Publishes ONLY on Monday, Wednesday, Friday, and Sunday (4 times a week).
+    2. Publishes at most ONCE per day on those allowed days.
     """
     today = datetime.datetime.now(datetime.timezone.utc).date()
+    weekday = today.weekday()
+    weekday_name = WEEKDAY_NAMES[weekday]
+
+    # Check 1: Day of week constraint
+    if weekday not in ALLOWED_YOUTUBE_WEEKDAYS:
+        days_ahead = 1
+        while (weekday + days_ahead) % 7 not in ALLOWED_YOUTUBE_WEEKDAYS:
+            days_ahead += 1
+        next_date = today + datetime.timedelta(days=days_ahead)
+        next_day_name = WEEKDAY_NAMES[next_date.weekday()]
+        return False, (
+            f"Today is {weekday_name} ({today}). "
+            f"Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. "
+            f"Next scheduled YouTube publish is {next_day_name} ({next_date})."
+        )
+
+    # Check 2: Max once a day constraint
     last_date = get_last_youtube_publish_date()
+    if last_date is not None:
+        if last_date == today:
+            return False, f"YouTube has ALREADY published today ({weekday_name}, {today}). Policy: Maximum once a day on allowed days."
+        if last_date > today:
+            return False, f"Clock anomaly: Last YouTube publish recorded in future ({last_date}). Skipping YouTube upload."
 
-    if last_date is None:
-        return True, "No previous YouTube upload found. Eligible to publish today."
-
-    days_diff = (today - last_date).days
-
-    if days_diff == 0:
-        return False, f"YouTube has ALREADY published today ({last_date}). Policy: Maximum once a day."
-
-    if days_diff == 1:
-        next_date = last_date + datetime.timedelta(days=2)
-        return False, f"YouTube published yesterday ({last_date}). Policy: Alternate days only (every 2 days). Next publish on or after {next_date}."
-
-    if days_diff < 0:
-        return False, f"Clock anomaly: Last YouTube publish recorded in future ({last_date}). Skipping YouTube upload."
-
-    return True, f"Last YouTube publish was {days_diff} days ago ({last_date}). Alternate day requirement satisfied."
+    return True, f"Today is {weekday_name} ({today}) - scheduled YouTube publishing day! Ready to upload."
 
 
 def record_youtube_publish(video_name, video_id=None):
