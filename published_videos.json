@@ -1263,5 +1263,28 @@
         "reason": "YouTube has ALREADY published today (Sunday, 2026-10-18). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_3.mp4",
+    "title": "Unlock Your Dream Home Flow! \ud83c\udfe0\u2728",
+    "description": "Discover architectural brilliance where every space is intentionally zoned for effortless living and seamless traffic flow.  Experience modern spatial harmony designed to inspire your perfect home.  This floor plan is a masterclass in functional beauty.  What's your favorite feature for daily life?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-18T22:22:01.431170+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1046399481714783"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Sunday, 2026-10-18). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
