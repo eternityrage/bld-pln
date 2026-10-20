@@ -1380,5 +1380,28 @@
         "reason": "Today is Tuesday (2026-10-20). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-21)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_architectu\u2026_20260918094406_3.mp4",
+    "title": "Dream Home Blueprint Unveiled! \ud83d\udcd0\u2728",
+    "description": "Step inside a world of structural elegance where every line crafts a vision. Experience modern spatial flow and functional brilliance in this visionary blueprint, designed for your ultimate dream home. Discover architectural precision that transforms living spaces into art.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-20T16:47:57.145453+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2454409181635022"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-10-20). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-21)."
+      }
+    ]
   }
 ]
