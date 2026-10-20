@@ -1357,5 +1357,28 @@
         "reason": "YouTube has ALREADY published today (Monday, 2026-10-19). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_apartment_\u2026_20261009155113.mp4",
+    "title": "Modern Dream Home Floor Plan Unveiled! \ud83d\udcd0\u2728",
+    "description": "Experience seamless spatial flow in this meticulously crafted modern design, where every room is optimized for both beauty and unparalleled functionality.  Discover innovative architectural elements that redefine comfortable, sophisticated living.  See how precision in construction brings this visionary floor plan to life.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-20T09:22:37.163000+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1623731665885394"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-10-20). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-21)."
+      }
+    ]
   }
 ]
