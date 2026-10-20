@@ -1403,5 +1403,28 @@
         "reason": "Today is Tuesday (2026-10-20). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-21)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20260918094401_2.mp4",
+    "title": "Smart Zoning: Your Dream Home Blueprint! \ud83d\udcd0\ud83d\udca1",
+    "description": "Unlock the secrets of superior living with PlanView Lens. This design masterfully balances functional zoning and traffic flow, creating a seamless, efficient, and harmonious modern space. Every detail is engineered for optimal comfort and practicality. What's your favorite zoning feature in this plan?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-20T23:06:59.120628+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1656166206205070"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-10-20). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-21)."
+      }
+    ]
   }
 ]
