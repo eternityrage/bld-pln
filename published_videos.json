@@ -1474,5 +1474,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-10-21). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_3.mp4",
+    "title": "Genius Floor Plan: Flow & Function \ud83d\udcd0\ud83d\udca1",
+    "description": "Unlock the secrets of exceptional architectural design with this meticulously crafted floor plan. Experience the brilliance of functional zoning that optimizes traffic flow and fosters modern spatial harmony. Our sharp engineering insight reveals a layout designed for ultimate efficiency and aesthetic appeal. #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-21T23:08:53.397283+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1062688283496055"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Wednesday, 2026-10-21). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
