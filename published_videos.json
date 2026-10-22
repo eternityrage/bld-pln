@@ -1520,5 +1520,28 @@
         "reason": "Today is Thursday (2026-10-22). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-23)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_architectu\u2026_20260918094406_2.mp4",
+    "title": "Unlock Dream Home Flow! \ud83c\udfdb\ufe0f\ud83d\udcd0",
+    "description": "Experience the heart of visionary blueprint design with PlanView Lens.  This architectural masterpiece showcases a symphony of structural elegance and modern spatial flow, where every room is designed for seamless living and ultimate functionality. Imagine your life unfolding within this precisely crafted vision.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-22T17:04:45.707583+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1123288363528997"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-10-22). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-23)."
+      }
+    ]
   }
 ]
