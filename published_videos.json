@@ -1497,5 +1497,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-10-21). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_2.mp4",
+    "title": "Unlock Smarter Living: Floor Plan Genius! \ud83c\udfe0\ud83d\udcd0",
+    "description": "Dive into a meticulously crafted floor plan where functional zoning maximizes every square foot. Experience the seamless traffic flow designed for modern living, promoting effortless movement and connection. Discover how thoughtful spatial harmony creates an environment that's both beautiful and supremely practical.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-22T09:20:51.151187+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1398248243370485"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-10-22). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-23)."
+      }
+    ]
   }
 ]
