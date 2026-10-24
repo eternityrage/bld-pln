@@ -1660,5 +1660,28 @@
         "reason": "Today is Saturday (2026-10-24). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-10-25)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261024200136_3.mp4",
+    "title": "Dream Home Flow: Masterful Floor Plan! \ud83c\udfe0\u2728",
+    "description": "Experience a new era of living with this meticulously crafted floor plan, where functional zoning seamlessly guides you through spaces designed for effortless traffic flow. Discover how thoughtful architectural innovation creates modern spatial harmony, transforming blueprints into your future sanctuary. This design isn't just a plan; it's the foundation of your inspired lifestyle.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-24T22:27:26.331521+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1638890194287345"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-10-24). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-10-25)."
+      }
+    ]
   }
 ]
