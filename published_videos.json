@@ -1614,5 +1614,28 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-10-23). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_5.mp4",
+    "title": "Genius Floor Plan: Zoning & Flow Mastered! \ud83d\udcd0\ud83d\udca1",
+    "description": "Unpacking a meticulously crafted floor plan that redefines functional zoning. Witness intelligent traffic flow optimized for seamless living, creating a symphony of modern spatial harmony. Every corner is designed with sharp engineering insight, showcasing a truly clever layout.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-24T08:51:24.413163+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1586353720186658"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-10-24). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-10-25)."
+      }
+    ]
   }
 ]
