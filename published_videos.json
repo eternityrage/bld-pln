@@ -1731,5 +1731,28 @@
         "reason": "YouTube has ALREADY published today (Sunday, 2026-10-25). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_in_floor_plan_20261024200136.mp4",
+    "title": "Unlock Spatial Genius: Smart Floor Plans! \ud83d\udcd0\ud83d\udca1",
+    "description": "Discover how intelligent zoning and optimized traffic flow create seamless modern living. This design showcases exceptional spatial harmony and functional brilliance, a testament to sharp engineering insight. See how clever layout maximizes every square foot for ultimate efficiency and comfort.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-25T22:27:35.651235+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2642718322852194"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Sunday, 2026-10-25). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
