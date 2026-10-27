@@ -1754,5 +1754,28 @@
         "reason": "YouTube has ALREADY published today (Sunday, 2026-10-25). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_Mediterran\u2026_20261027022830.mp4",
+    "title": "Genius Modern Home Blueprint Unveiled! \ud83d\udcd0\ud83d\udca1",
+    "description": "Witness cutting-edge modern architectural design where every square foot is optimized for flow and functionality. This plan showcases meticulous space planning and clever zoning, ensuring seamless transitions and maximized utility. Experience the precision that defines exceptional construction.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-27T09:49:58.348198+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1983274436363277"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-10-27). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-10-28)."
+      }
+    ]
   }
 ]
