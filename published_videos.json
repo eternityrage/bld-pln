@@ -1848,5 +1848,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-10-28). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "Figures_moving_through_architect\u2026_20261026042423.mp4",
+    "title": "Blueprint Mastery: Visionary Design Unlocked! \ud83d\udcd0\u2728",
+    "description": "Explore the meticulous detail and structural elegance of this visionary blueprint. We're breaking down the seamless flow and ingenious room functionality that defines architectural precision. Witness how innovative design shapes extraordinary spaces. What innovative feature stands out most to you in this build? #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-29T00:07:32.173106+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1347577237328744"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-10-29). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-30)."
+      }
+    ]
   }
 ]
