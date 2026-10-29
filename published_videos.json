@@ -1917,5 +1917,28 @@
         "reason": "Today is Thursday (2026-10-29). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-30)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_apartment_\u2026_20261027022830.mp4",
+    "title": "Modern Dream Home Blueprint Unveiled! \ud83d\udcd0\u2728",
+    "description": "Experience the ultimate in modern living with this meticulously crafted floor plan, showcasing innovative spatial flow and maximizing natural light. Every room is designed for seamless functionality, blending aesthetic beauty with intelligent construction. Discover how thoughtful design can transform a house into your perfect sanctuary.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-29T23:59:41.219374+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1992932551385765"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-10-29). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-10-30)."
+      }
+    ]
   }
 ]
