@@ -2011,5 +2011,28 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-10-30). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_luxury_apa\u2026_20261027022830.mp4",
+    "title": "Genius Modern Floor Plan Revealed! \ud83d\udcd0\ud83d\udca1",
+    "description": "Experience sharp engineering insight with this meticulously zoned modern building design.  Discover how clever layout transitions maximize space and functionality, showcasing true construction precision.  This is architectural innovation at its finest.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-31T10:22:11.489139+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1443660117722243"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-10-31). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-01)."
+      }
+    ]
   }
 ]
