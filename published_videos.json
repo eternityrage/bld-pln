@@ -2057,5 +2057,28 @@
         "reason": "Today is Saturday (2026-10-31). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-01)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261024200136_2.mp4",
+    "title": "Your Dream Home's Flow Unlocked! \ud83c\udfe0\u2728",
+    "description": "Discover how this architectural floor plan masterfully balances functional zoning with seamless traffic flow. Witness the harmony of modern spatial design, maximizing every square foot for ultimate livability. Let's break down the brilliance behind this efficient layout!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-10-31T23:19:11.227705+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1592578242619396"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-10-31). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-01)."
+      }
+    ]
   }
 ]
