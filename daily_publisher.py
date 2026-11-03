@@ -168,7 +168,7 @@ def generate_caption(video_name=None):
     ]
 
     pollinations_key = os.environ.get('POLLINATIONS_API_KEY', '').strip()
-    model = os.environ.get('AI_MODEL', 'gemini-fast').strip()
+    model = os.environ.get('AI_MODEL', 'openai/gpt-5.4-nano').strip()
 
     if not pollinations_key:
         return random.choice(fallback_titles), random.choice(fallback_descriptions)
