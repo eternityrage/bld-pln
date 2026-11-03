@@ -2222,5 +2222,28 @@
         "reason": "Today is Tuesday (2026-11-03). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-04)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_7.mp4",
+    "title": "Unlock the Perfect Flow: Floor Plan Breakdown! \ud83c\udfe0\ud83d\udcd0\u2728",
+    "description": "In this PlanView Lens episode, we zoom in on an architectural floor plan built for functional zoning\u2014separating private, social, and service areas with clear visual logic. Watch how the traffic flow is optimized to reduce bottlenecks, improve accessibility, and guide movement naturally from entry to living spaces. The layout balances modern spatial harmony with smart proportions, ensuring every room feels connected without sacrificing purpose. Would you rate this floor plan 1\u201310 for livability, and tag someone who\u2019s building their dream home?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-03T11:54:30.119189+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "3195063544032163"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-11-03). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-04)."
+      }
+    ]
   }
 ]
