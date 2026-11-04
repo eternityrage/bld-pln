@@ -2293,5 +2293,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-04). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261024200136_5.mp4",
+    "title": "Map the Flow: Smart Floor Plans That Feel Effortless \ud83c\udfe0\ud83d\udcd0\u2728",
+    "description": "Step into a modern architectural floor plan built around functional zoning and effortless traffic flow. Rooms are organized to reduce wasted movement, creating clear pathways from entry to living spaces, while private zones stay calm and intentional. The design balances spacious harmony with practical construction-ready layout planning\u2014so every square foot earns its place. Want a layout that truly \u201cmoves\u201d with you? Rate this plan 1-10 in the comments and tag someone building their dream home! #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-04T19:45:03.489857+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1716779479777912"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-04). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
