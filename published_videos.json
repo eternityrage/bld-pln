@@ -2316,5 +2316,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-04). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_Mediterran\u2026_20261027022830.mp4",
+    "title": "PlanView Lens: Modern Floor Plans That Hit Perfect Flow \ud83d\udcd0\ud83c\udfe1",
+    "description": "PlanView Lens breaks down modern building design with clear, step-by-step insights into space planning and blueprint logic. From how circulation moves through the home to how each room\u2019s function is optimized, every layout is built for real-world construction precision. You\u2019ll see how contemporary architectural choices shape light, flow, and usability\u2014then translate those details into build-ready plans. Want to build something like this? Rate this layout 1-10 in the comments and tag someone designing their dream home!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-05T01:07:30.238023+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1850180492835760"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-11-05). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-11-06)."
+      }
+    ]
   }
 ]
