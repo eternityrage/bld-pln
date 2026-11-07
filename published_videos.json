@@ -2456,5 +2456,28 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-11-06). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_architectu\u2026_20260923015126_2.mp4",
+    "title": "Blueprint Brilliance: Smart Zoning in Real Plans! \ud83c\udfdb\ufe0f\ud83d\udcd0",
+    "description": "PlanView Lens dissects architectural floor plans like an engineer\u2014showing how structural elegance and clean circulation drive every decision. From visionary blueprint layouts to precise room zoning, each space is designed to function efficiently while keeping the overall geometry sharp and intentional. Watch the design flow reveal how scale, sightlines, and load-aware planning shape a cohesive build-ready concept. Which layout detail impresses you most\u2014zoning, flow, or structural clarity? Drop your thoughts and rate it 1-10 in the comments!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-07T00:11:09.935687+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2348084409336327"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-11-07). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-08)."
+      }
+    ]
   }
 ]
