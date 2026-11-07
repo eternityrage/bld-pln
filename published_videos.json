@@ -2502,5 +2502,28 @@
         "reason": "Today is Saturday (2026-11-07). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-08)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20260918094405.mp4",
+    "title": "Dream Home Floor Plan with Zero Wasted Space! \ud83c\udfe0\ud83d\udca1",
+    "description": "From entry vestibule to master sanctuary: see how circulation corridors are minimized to give you maximum usable living space. Clean lines, practical dimensions, and brilliant architectural design.\n\n\ud83d\udcac Rate this layout from 1 to 10 in the comments!\n\ud83d\udc49 Follow @PlanViewLens for daily building designs!\n\n#PlanViewLens #Architecture #FloorPlan #HouseDesign #BuildingPlans #InteriorDesign #Blueprints #ConstructionLife #Shorts #Reels",
+    "published_at": "2026-11-07T17:51:00.233439+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1463262779263809"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-11-07). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-08)."
+      }
+    ]
   }
 ]
