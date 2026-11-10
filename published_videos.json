@@ -2667,5 +2667,28 @@
         "reason": "YouTube has ALREADY published today (Monday, 2026-11-09). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_cooking_in_kitchen_home_20261009155105.mp4",
+    "title": "Luxury Villa Blueprint Hack: Private Courtyard Flow \ud83c\udf3f\ud83c\udfe1\u2728",
+    "description": "PlanView Lens dissects a luxury villa layout engineered for expansive sightlines and effortless movement from public to private zones. The design smartly anchors key living spaces to the courtyard, creating natural light, ventilation, and a serene outdoor \u201croom\u201d that feels seamlessly integrated. With disciplined zoning and clear circulation paths, every square meter supports both grand entertaining and comfortable residence-scale functionality. Want to see how clever zoning turns a home into a true luxury sanctuary\u2014rate this layout 1-10 in the comments and tag someone building their dream villa! #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-10T02:47:20.529308+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1665997991975013"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-11-10). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-11)."
+      }
+    ]
   }
 ]
