@@ -2784,5 +2784,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-11). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261024200136_3.mp4",
+    "title": "Smart Zoning in This Floor Plan! \ud83c\udfe0\ud83d\udcd0\u26a1",
+    "description": "This architectural floor plan uses clear functional zoning to separate everyday living spaces from quieter rooms, improving both privacy and daily usability. Notice how the traffic flow stays efficient\u2014key pathways connect common areas without unnecessary detours, keeping movement intuitive. The layout also balances modern spatial harmony with well-proportioned rooms that feel cohesive rather than compartmentalized. Want a layout like this for your next build? Rate it 1-10 in the comments! Tag someone designing their dream home!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-11T19:40:00.875454+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "29017432064532738"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-11). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
