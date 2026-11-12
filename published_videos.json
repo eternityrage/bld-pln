@@ -2807,5 +2807,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-11). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_6.mp4",
+    "title": "Zoning Genius on This Floor Plan! \ud83c\udfe0\ud83d\udcd0\u2699\ufe0f",
+    "description": "This architectural layout smartly organizes functional zoning to keep daily traffic moving smoothly from entry to living, dining, and private rooms. Notice how circulation routes reduce bottlenecks\u2014key for efficient flow, whether you\u2019re hosting or moving through at peak times. The spatial harmony balances open sightlines with practical separation, turning blueprints into a confident, real-world build strategy.\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-12T01:58:55.621613+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1020194251100373"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-11-12). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-11-13)."
+      }
+    ]
   }
 ]
