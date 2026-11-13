@@ -2899,5 +2899,30 @@
         "error": "HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:485433619158'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:485433619158'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
       }
     ]
+  },
+  {
+    "filename": "People_moving_in_architectural_a\u2026_20261024200136.mp4",
+    "title": "Blueprint Breakdown: Smart Zoning Flow Like a Pro \ud83c\udfdb\ufe0f\ud83d\udcd0",
+    "description": "Step into PlanView Lens for a close look at architectural blueprint design that balances structural elegance with razor-precise layout zoning. From circulation paths to room adjacency, this plan flows efficiently\u2014keeping spaces functional, aligned, and purpose-driven. Watch how design decisions shape real construction clarity, turning detailed drawings into a confident build-ready vision. What detail would you prioritize first\u2014open-plan flow or defined zones for privacy?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-13T12:09:21.472125+00:00",
+    "youtube_published_at": "2026-11-13T12:09:21.472125+00:00",
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1605300641280842"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "success",
+        "id": "LSzW2YPajTk",
+        "platform": "youtube",
+        "url": "https://youtube.com/shorts/LSzW2YPajTk",
+        "title": "Blueprint Breakdown: Smart Zoning Flow Like a Pro \ud83c\udfdb\ufe0f\ud83d\udcd0 #Shorts"
+      }
+    ]
   }
 ]
