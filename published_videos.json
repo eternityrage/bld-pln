@@ -2876,5 +2876,28 @@
         "reason": "Today is Thursday (2026-11-12). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-11-13)."
       }
     ]
+  },
+  {
+    "filename": "Figures_moving_through_architect\u2026_20261026042423.mp4",
+    "title": "Blueprint Brilliance: Genius Zoning in This Plan! \ud83d\udcd0\ud83c\udfdb\ufe0f",
+    "description": "PlanView Lens breaks down how this architectural blueprint achieves structural elegance through tight zoning and precise spatial planning. Notice the clean transitions from entry to living areas, with functional room placement that supports both daily flow and long-term usability. The design showcases visionary layout decisions\u2014balancing load-bearing logic, circulation paths, and visual harmony for a sharp, engineering-minded finish. Would you build this layout\u2014what\u2019s your favorite zone in the plan?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-13T01:07:58.585381+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1426962842751373"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "failed",
+        "platform": "youtube",
+        "error": "HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:485433619158'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:485433619158'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      }
+    ]
   }
 ]
