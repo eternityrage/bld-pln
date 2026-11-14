@@ -2947,5 +2947,28 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-11-13). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_24b469a4.mp4",
+    "title": "Dream-Home Floor Plan Flow You\u2019ll Love! \ud83c\udfe0\ud83d\udcd0\u2728",
+    "description": "Step into architectural clarity with PlanView Lens\u2014where every room is placed for functional zoning and smooth, intuitive traffic flow. From entry to living areas, the layout balances open sightlines and efficient pathways, creating modern spatial harmony that feels effortless to live in. Explore smart building design choices that support comfort, usability, and a clean blueprint-ready vision for construction. Want to see more layouts like this\u2014rate the flow 1-10 in the comments and tag someone building their dream home!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-14T00:53:34.276666+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "2094130701329192"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-11-14). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-15)."
+      }
+    ]
   }
 ]
