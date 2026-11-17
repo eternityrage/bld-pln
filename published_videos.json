@@ -3204,5 +3204,28 @@
         "reason": "Today is Tuesday (2026-11-17). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-18)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_8.mp4",
+    "title": "Map the Flow: Smart Floor Plan Magic! \ud83c\udfe0\ud83d\udcd0\u2728",
+    "description": "Step into a modern, dream-home layout where functional zoning shapes every corner\u2014quiet living zones, purposeful work areas, and effortless transitions between spaces. The traffic flow is intentionally designed for smooth movement, reducing bottlenecks while keeping daily routines intuitive and calm. With thoughtful room adjacency and balanced spatial harmony, this blueprint turns \u201cwhere things go\u201d into a seamless, feel-good experience. Ready to see your dream layout come to life\u2014would you choose this flow? Tag someone planning their next home build and share your rating 1-10 in the comments! #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-17T20:53:59.067250+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1402699251663011"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-11-17). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-18)."
+      }
+    ]
   }
 ]
