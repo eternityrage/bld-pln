@@ -3158,5 +3158,28 @@
         "reason": "YouTube has ALREADY published today (Monday, 2026-11-16). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20260918094401_3.mp4",
+    "title": "Traffic-Flow Genius Floor Plan Revealed! \ud83c\udfe0\ud83d\udcd0\u2699\ufe0f",
+    "description": "PlanView Lens breaks down this architectural floor plan with sharp engineering insight\u2014zoning is handled with intent to keep movement smooth and spaces purpose-driven. From functional room adjacency to efficient circulation paths, the layout balances privacy and openness without sacrificing buildable realism. Expect modern spatial harmony where each zone supports daily flow, creating a cleaner, smarter home blueprint. What zoning or traffic-flow detail do you think makes this plan stand out most\u20141-10 in the comments?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-17T02:58:53.664768+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "963278759916004"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Tuesday (2026-11-17). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Wednesday (2026-11-18)."
+      }
+    ]
   }
 ]
