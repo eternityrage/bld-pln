@@ -3298,5 +3298,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-18). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_6ab90bdd.mp4",
+    "title": "Floor Plan Mastermind: Smart Zoning Wins Every Walkthrough! \ud83c\udfe0\ud83d\udcd0\u2699\ufe0f",
+    "description": "This Architectural Floor Plan uses razor-clear functional zoning to separate daily living, private spaces, and utility cores\u2014keeping everything purposeful from entry to exit. Notice how traffic flow stays efficient with thoughtful circulation paths, reducing bottlenecks while boosting comfort and usability. The result is modern spatial harmony: each room \u201cearns its place\u201d through layout logic, not guesswork. Would you trust this zoning strategy in your next build\u2014rate it 1-10 in the comments!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-19T01:55:45.793161+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1413470987222048"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-11-19). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-11-20)."
+      }
+    ]
   }
 ]
