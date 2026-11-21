@@ -3484,5 +3484,28 @@
         "reason": "Today is Saturday (2026-11-21). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-22)."
       }
     ]
+  },
+  {
+    "filename": "People_moving_in_alpine_chalet_20261026042423.mp4",
+    "title": "PlanView Lens: Modern Floor Plans That Build Smarter! \ud83d\udcd0\ud83c\udfd7\ufe0f",
+    "description": "Explore modern building design through clear architectural floor plans\u2014where every square foot is planned for real-world function and smooth flow. From space planning to blueprint-level detailing, PlanView Lens breaks down how room layouts support daily living while keeping construction precision front and center. Get an informed look at contemporary design choices that balance form, circulation, and buildability for a stronger end result. Want to see more layouts like this\u2014rate this design 1-10 in the comments and tag someone planning their dream home!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-21T19:06:35.187980+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1614060456567261"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-11-21). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-22)."
+      }
+    ]
   }
 ]
