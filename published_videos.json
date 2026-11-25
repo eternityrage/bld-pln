@@ -3743,5 +3743,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-25). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20261014134535_11.mp4",
+    "title": "Ingenious Floor Plan Zoning That Solves Flow! \ud83c\udfe0\ud83d\udcd0\u2699\ufe0f",
+    "description": "PlanView Lens breaks down this architectural floor plan with sharp engineering zoning\u2014balancing functional spaces, smart adjacencies, and efficient circulation. Notice how the traffic flow is streamlined to keep high-traffic routes clear while quieter rooms stay comfortably separated. The result is modern spatial harmony: purposeful layout decisions that make everyday movement feel effortless and intuitive. What\u2019s your biggest priority in a floor plan\u2014flow, privacy, or room sizes? Drop your rating 1-10 in the comments and tag someone building their dream home! #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-25T21:35:08.613596+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "4361624014129651"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-25). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
