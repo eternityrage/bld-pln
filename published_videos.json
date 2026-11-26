@@ -3766,5 +3766,28 @@
         "reason": "YouTube has ALREADY published today (Wednesday, 2026-11-25). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_apartment_\u2026_20260918094402.mp4",
+    "title": "Dream-Home Floor Plan Reveal! Modern Flow & Precision \ud83d\udcd0\ud83c\udfe1\u2728",
+    "description": "Step into modern spatial flow with PlanView Lens\u2014where every line on the blueprint supports real-life room functionality. Notice how the layout guides movement from open living zones to private retreats, balancing light, sightlines, and smart space planning. From clean architectural detailing to construction-ready clarity, this design shows how precision planning creates a buildable, beautiful home. What\u2019s your dream feature in a modern floor plan\u2014open-concept living, a standout entry, or a dedicated office? Drop your pick in the comments and tag someone building their future home!\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-26T02:53:11.157651+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "success",
+        "platform": "facebook",
+        "video_id": "1661804745335896"
+      },
+      {
+        "status": "success",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Thursday (2026-11-26). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Friday (2026-11-27)."
+      }
+    ]
   }
 ]
