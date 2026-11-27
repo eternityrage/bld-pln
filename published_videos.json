@@ -3882,5 +3882,27 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-11-27). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_architectu\u2026_20261024200136_2.mp4",
+    "title": "Blueprint to Beauty: See the PlanFlow in Action \ud83c\udfdb\ufe0f\ud83d\udcd0",
+    "description": "PlanView Lens breaks down architectural floor plans and building designs with a blueprint-level look at structural elegance and precise spatial planning. Follow the design flow from entry to living zones, where room functionality is balanced for natural movement and purposeful layouts. Discover how construction-ready details shape the vision\u2014turning blueprints into a confident, visionary build-ready blueprint system. What\u2019s your biggest must-have in a floor plan\u2014open concept, privacy, or smart storage? Drop your pick in the comments and tag someone designing their dream home! #planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-27T21:06:21.963171+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "YouTube has ALREADY published today (Friday, 2026-11-27). Policy: Maximum once a day on allowed days."
+      }
+    ]
   }
 ]
