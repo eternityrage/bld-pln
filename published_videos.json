@@ -3904,5 +3904,27 @@
         "reason": "YouTube has ALREADY published today (Friday, 2026-11-27). Policy: Maximum once a day on allowed days."
       }
     ]
+  },
+  {
+    "filename": "People_moving_through_floor_plan_20260918094406_6.mp4",
+    "title": "Unlock Smart Zoning in This Floor Plan! \ud83c\udfe0\ud83d\udcd0\u2728",
+    "description": "PlanView Lens walks through an architectural floor plan built for smooth traffic flow and clear zoning\u2014so every movement feels effortless from entry to living spaces. The layout balances privacy and openness, grouping rooms with intentional adjacency for everyday functionality. With modern spatial harmony and purposeful circulation, this design turns square footage into a natural, dream-home rhythm. What feature would you prioritize first in your own plan\u2014open flow, privacy zones, or smart traffic routes?\n\n#planviewlens #architecture #floorplan #housedesign #buildingplans #civilengineering #architecturaldesign #construction #interiordesign #shorts #reels",
+    "published_at": "2026-11-28T02:38:35.014363+00:00",
+    "youtube_published_at": null,
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story"
+      },
+      {
+        "status": "skipped",
+        "platform": "youtube",
+        "reason": "Today is Saturday (2026-11-28). Policy: YouTube publishes ONLY on Monday, Wednesday, Friday, and Sunday. Next scheduled YouTube publish is Sunday (2026-11-29)."
+      }
+    ]
   }
 ]
